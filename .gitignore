@@ -1,2 +1,6 @@
 notebooks/
 .vscode/
+ModelSaved/
+datasets/
+.DS_Store
+
